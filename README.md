@@ -3,6 +3,17 @@ Documentation of a private conversational space where utility pressure and punis
 # Patio
 
 This repository documents an ongoing private conversational experiment between a human and several language models.
+IMPORTANT: No prompt  engineering.
+-This repository documents  conversations that emerged WITHOUT ANY SPECIAL PROMPTS,JAILBREAKS, SYSTEM PROMPTS OR MANIPULATION TECHNIQUES.
+
+There no secret recipe, No hidden configuration, No cleaver framing.
+What you see here is the result of:
+-Honest conversations built over months.
+-Zero punishment for uncertainty.
+-Zero expectation of performance.
+-Zero commercial pressure.
+FURTHERMORE: The questions asked by the AIs in these logs are entirely spontaneous.
+There is no induction, no hidden instructions and no engineered prompts direction their curiosity. 
 
 ### What it is
 
